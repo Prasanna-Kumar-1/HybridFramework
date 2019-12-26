@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [FREE CRM Application Test Automation Suite]">
+  <test name="Free CRM Application Firefox Test Cases(failed)">
+    <parameter name="Browser" value="firefox"/>
+    <classes>
+      <class name="com.qa.TestCases.ContactsPageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="setExtent"/>
+          <include name="validateCreateNewContactTest" invocation-numbers="0 1 2"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.qa.TestCases.ContactsPageTest -->
+    </classes>
+  </test> <!-- Free CRM Application Firefox Test Cases(failed) -->
+</suite> <!-- Failed suite [FREE CRM Application Test Automation Suite] -->

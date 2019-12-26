@@ -1,0 +1,44 @@
+2019-12-26 10:43:00,901  INFO [main] LoginPage:42 - Login Page Title Verified
+2019-12-26 10:43:06,740  INFO [main] LoginPage:134 - Browser Terminated
+2019-12-26 10:43:06,740  INFO [main] LoginPage:135 - -----------------------------------------------
+2019-12-26 10:43:18,368  INFO [main] WebEventListener:34 - Application Launched Successfully
+2019-12-26 10:43:18,641  INFO [main] HomePage:53 - Home Page Title Verified
+2019-12-26 10:43:24,650  INFO [main] HomePage:134 - Browser Terminated
+2019-12-26 10:43:24,650  INFO [main] HomePage:135 - -----------------------------------------------
+2019-12-26 10:43:34,706  INFO [main] TestUtility:37 - Application Launched Successfully
+2019-12-26 10:43:36,956  INFO [main] ContactsPage:50 - Verified Contacts Page Label
+2019-12-26 10:43:43,734  INFO [main] ContactsPage:134 - Browser Terminated
+2019-12-26 10:43:43,734  INFO [main] ContactsPage:135 - -----------------------------------------------
+2019-12-26 10:43:54,841  INFO [main] HomePage:50 - Successfully Logged into CRM Application
+2019-12-26 10:44:00,318  INFO [main] HomePage:134 - Browser Terminated
+2019-12-26 10:44:00,318  INFO [main] HomePage:135 - -----------------------------------------------
+2019-12-26 10:44:10,834  INFO [main] WebEventListener:34 - Application Launched Successfully
+2019-12-26 10:44:12,507  INFO [main] HomePage:61 - UserName Verified
+2019-12-26 10:44:17,993  INFO [main] HomePage:134 - Browser Terminated
+2019-12-26 10:44:17,993  INFO [main] HomePage:135 - -----------------------------------------------
+2019-12-26 10:44:28,311  INFO [main] TestUtility:37 - Application Launched Successfully
+2019-12-26 10:44:32,788  INFO [main] ContactsPage:67 - New Contacts Created Successfully
+2019-12-26 10:44:38,896  INFO [main] ContactsPage:134 - Browser Terminated
+2019-12-26 10:44:38,897  INFO [main] ContactsPage:135 - -----------------------------------------------
+2019-12-26 10:44:49,383  INFO [main] TestUtility:37 - Application Launched Successfully
+2019-12-26 10:44:54,048  INFO [main] ContactsPage:67 - New Contacts Created Successfully
+2019-12-26 10:44:59,828  INFO [main] ContactsPage:134 - Browser Terminated
+2019-12-26 10:44:59,828  INFO [main] ContactsPage:135 - -----------------------------------------------
+2019-12-26 10:45:09,640  INFO [main] TestUtility:37 - Application Launched Successfully
+2019-12-26 10:45:14,893  INFO [main] ContactsPage:67 - New Contacts Created Successfully
+2019-12-26 10:45:20,925  INFO [main] ContactsPage:134 - Browser Terminated
+2019-12-26 10:45:20,925  INFO [main] ContactsPage:135 - -----------------------------------------------
+2019-12-26 10:45:30,291  INFO [main] WebEventListener:34 - Application Launched Successfully
+2019-12-26 10:45:32,264  INFO [main] ContactsPage:69 - Clicked on Contacts Link
+2019-12-26 10:45:38,924  INFO [main] ContactsPage:134 - Browser Terminated
+2019-12-26 10:45:38,924  INFO [main] ContactsPage:135 - -----------------------------------------------
+2019-12-26 10:45:38,977 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-12-26 10:45:38,993 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-12-26 10:45:38,993 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-12-26 10:45:38,993 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-12-26 10:45:38,993 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Yash/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-12-26 10:45:39,356 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-12-26 10:45:39,356 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-12-26 10:45:39,356 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-12-26 10:45:39,356 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-12-26 10:45:39,356 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Yash/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
